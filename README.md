@@ -6,7 +6,7 @@
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT-4**: Para a criação do texto e desenvolvimento da história.
 - **OpenArt SDXL**: Para a geração da arte de capa.
-- **CanvaL**: Para diagramação da arte da capa.
+- **Canva**: Para diagramação da arte da capa.
 
 ## 🧐 Processo de Criação
 ### Planejamento Inicial:
